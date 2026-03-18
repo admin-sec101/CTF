@@ -45,6 +45,9 @@ https://morsecode.world/international/translator.html
 ```
 ```telecommunication encoding```
 
+[morse.wav](https://github.com/user-attachments/files/26097832/morse.wav)
+
+
 ```Deximal to Text
 85 110 112 97 99 107 32 116 104 105 115 32 66 67 68
 ```
